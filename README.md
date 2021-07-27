@@ -1,2 +1,2 @@
 # Simple-Fun-Crash-Script.py
-crashes
+Crashes the computer by opening thousands of instances of cmd.
